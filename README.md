@@ -1,7 +1,7 @@
 # CHOI, DONGHYUN [NullBins.]
 
 ## Affiliated organization
-- 계룡디지텍고등학교 2022년 졸업
+- 계룡디지텍고등학교 2022년 졸업 (동아리: IT네트워크시스템반)
 - 경기대학교 AI컴퓨터공학부 25학번 재학(예정)
 
 ## I have interest in. . .
@@ -16,7 +16,7 @@
   - Machine Learning
 
 ## My experience
-- [2023.01 ~ 2024.10] 공군 정보보호병(30010정|30110Y) 사이버관제 복무
+- [2023.01 ~ 2024.10] 대한민국 공군 정보보호병(30010정|30110Y) 사이버관제 군복무 후 전역
 
 ## Skills
 - ![VMware](https://img.shields.io/badge/VMware-607078.svg?&style=for-the-badge&logo=vmware&logoColor=white)
