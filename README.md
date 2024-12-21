@@ -15,6 +15,9 @@
   - Deep Learning
   - Machine Learning
 
+## My experience
+- [2023.01 ~ 2024.10] 공군 정보보호병(30010정|30110Y) 사이버관제 복무
+
 ## Skills
 - ![VMware](https://img.shields.io/badge/VMware-607078.svg?&style=for-the-badge&logo=vmware&logoColor=white)
 - ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white)
