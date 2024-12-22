@@ -1,5 +1,5 @@
 # Black Image
-- ![image]()
+> ![image](https://github.com/NullBins/NullBins/blob/main/NullBins/NullBins-Black.png)
 
 # White Image
-- ![image]()
+> ![image](https://github.com/NullBins/NullBins/blob/main/NullBins/NullBins-White.png)
