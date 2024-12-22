@@ -1,14 +1,14 @@
 # ⭐ CHOI, DONGHYUN &ensp; < *NullBins.* >
 
 ## 📍 Affiliated organization
-- 계룡디지텍고등학교 2022년 졸업 (동아리: IT네트워크시스템반)
+- 계룡디지텍고등학교 2022년 졸업 (동아리: IT네트워크반)
 - 경기대학교 AI컴퓨터공학부 25학번 재학(예정)
 
-## 💡 I have interest in. . .
+## 💡 I have interest in . . .
 - CS(Computer Science)
   - Network(Cloud) Infrastructure Automation
   - Virtualization & Server Engineering
-    - 고등학교 동아리 활동
+    - High school activities (President of a IT network club)
   - Operating System(Opensource Softwares)
   - Cyber Security
   - Development(Coding)
