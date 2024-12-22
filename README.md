@@ -45,7 +45,7 @@
   echo "Welcome to My world!🥰";
 ```
 
-## 📜 Certificate
+## 📜 Certificates
 - [ 2024.06. ] 정보처리산업기사(Industrial Engineer Information Processing)
 - [ 2020.07. ] 정보기기운용기능사(Craftsman Information Equipment Operation)
 - [ 2020.12. ] 네트워크관리사2급(Network Advisor Class-II)
