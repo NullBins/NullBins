@@ -52,6 +52,6 @@
 - [ 2020.12. ] 네트워크관리사2급(Network Advisor Class-II)
 - [ 2020.09. ] 리눅스마스터2급(Linux Master Class-II)
 
-## 💾 Weblog & Video
+## 💾 Weblog & Videos
 - ![Tistory](https://img.shields.io/badge/Tistory-EC4815.svg?&style=for-the-badge&logo=Tistory&logoColor=white)><https://lanlife.tistory.com/>
 - ![Youtube](https://img.shields.io/badge/Youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)><https://www.youtube.com/@choits>
