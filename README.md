@@ -7,11 +7,11 @@
 ## 💡 I have interest in . . .
 - CS(Computer Science)
   - Network(Cloud) Infrastructure Automation
-  - Virtualization & Server Engineering
+  - Virtualization & Network · Server Engineering
     - High school activities (President of a IT Network class)
   - Operating System(OpenSource Software)
-  - Cyber Security
-  - Development(Coding)
+  - Cyber Security(ing..)
+  - Development
 - AI(Artificial Intelligence)
   - Deep Learning
   - Machine Learning
