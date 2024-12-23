@@ -8,7 +8,7 @@
 - CS(Computer Science)
   - Network(Cloud) Infrastructure Automation
   - Virtualization & Server Engineering
-    - High school activities (President of a IT network club)
+    - High school activities (President of a IT Network class)
   - Operating System(OpenSource Software)
   - Cyber Security
   - Development(Coding)
