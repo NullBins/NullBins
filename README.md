@@ -25,22 +25,22 @@
 - [ *2020.09.* | *2021.10.* ] 제 **55·56회** 전국기능경기대회 IT네트워크시스템(IT·디자인분과) 장려상🎖 수상
 
 ## 🛠 Skills
-> ![VMware](https://img.shields.io/badge/VMware-607078.svg?&style=for-the-badge&logo=vmware&logoColor=white)
-> ![VB](https://img.shields.io/badge/VirtualBox-2F61B4.svg?&style=for-the-badge&logo=VirtualBox&logoColor=white)
-> ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
+> [![VMware](https://img.shields.io/badge/VMware-607078.svg?&style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/)
+> [![VB](https://img.shields.io/badge/VirtualBox-2F61B4.svg?&style=for-the-badge&logo=VirtualBox&logoColor=white)](https://www.virtualbox.org/)
+> [![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com/)
 
-> ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white)
-> ![Debian](https://img.shields.io/badge/Debian-A81D33.svg?&style=for-the-badge&logo=Debian&logoColor=white)
-> ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white)
-> ![Cisco](https://img.shields.io/badge/Cisco_Network-1BA0D7.svg?&style=for-the-badge&logo=Cisco&logoColor=white)
+> [![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white)](https://www.kernel.org/)
+> [![Debian](https://img.shields.io/badge/Debian-A81D33.svg?&style=for-the-badge&logo=Debian&logoColor=white)](https://www.debian.org/)
+> [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white)](https://ubuntu.com/)
+> [![Cisco](https://img.shields.io/badge/Cisco-1BA0D7.svg?&style=for-the-badge&logo=Cisco&logoColor=white)](https://www.cisco.com/)
 
-> ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
-> ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-> ![Bash](https://img.shields.io/badge/Bash_Shell-4EAA25.svg?&style=for-the-badge&logo=gnuBash&logoColor=white)
-> ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white)
-> ![Ansible](https://img.shields.io/badge/Ansible-EE0000.svg?&style=for-the-badge&logo=Ansible&logoColor=white)
+> [![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)](https://learn.microsoft.com/ko-kr/cpp/c-language/c-language-reference?view=msvc-170)
+> [![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
+> [![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white)](https://www.php.net/)
+> [![BASH](https://img.shields.io/badge/Bash_Shell-4EAA25.svg?&style=for-the-badge&logo=GNUBash&logoColor=white)](https://www.gnu.org/software/bash/)
+> [![OSS](https://img.shields.io/badge/OSS-DD0700.svg?&style=for-the-badge&logo=Opensourceinitiative&logoColor=white)](https://www.oss.kr/)
 
-> ![EATING](https://img.shields.io/badge/I'M_EATING_VERY_WELL-F4AF47.svg?&style=social&logoColor=white)
+> ![EATING](https://img.shields.io/badge/I'M_EATING_VERY_WELL-000000.svg?&style=social&logoColor=white)
 
 ```bash
   echo "Welcome to My world!🥰";
@@ -53,5 +53,8 @@
 - [ *2020.09.* ] 리눅스마스터2급(Linux Master Class-II)
 
 ## 💾 Weblog & Videos
-- ![Tistory](https://img.shields.io/badge/Tistory-EC4815.svg?&style=for-the-badge&logo=Tistory&logoColor=white)><https://lanlife.tistory.com/>
-- ![Youtube](https://img.shields.io/badge/Youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)><https://youtube.com/@choits>
+- [![Tistory](https://img.shields.io/badge/TISTORY-EC4815.svg?&style=flat&logo=Tistory&logoColor=white)](https://lanlife.tistory.com/) [[lanlife.tistory.com]]
+- [![Youtube](https://img.shields.io/badge/YOUTUBE-FF0000.svg?&style=flat&logo=youtube&logoColor=white)](https://youtube.com/@choits) [[youtube.com/@choits]]
+
+[lanlife.tistory.com]: <https://lanlife.tistory.com/>
+[youtube.com/@choits]: <https://youtube.com/@choits>
