@@ -9,8 +9,8 @@
   - Network(Cloud) Infrastructure Automation
   - Virtualization & Network · Server Engineering
     - High school activities (President of a IT Network class)
-  - Operating System(OpenSource Software)
-  - Cyber Security(ing..)
+  - Operating System(OSS)
+  - Cyber Security
   - Development
 - AI(Artificial Intelligence)
   - Deep Learning
