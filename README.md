@@ -47,11 +47,11 @@
 ```
 
 ## 📜 Certificates
-- [ 2024.06. ] 정보처리산업기사(Industrial Engineer Information Processing)
-- [ 2020.07. ] 정보기기운용기능사(Craftsman Information Equipment Operation)
-- [ 2020.12. ] 네트워크관리사2급(Network Advisor Class-II)
-- [ 2020.09. ] 리눅스마스터2급(Linux Master Class-II)
+- [ *2024.06.* ] 정보처리산업기사(Industrial Engineer Information Processing)
+- [ *2020.07.* ] 정보기기운용기능사(Craftsman Information Equipment Operation)
+- [ *2020.12.* ] 네트워크관리사2급(Network Advisor Class-II)
+- [ *2020.09.* ] 리눅스마스터2급(Linux Master Class-II)
 
 ## 💾 Weblog & Videos
 - ![Tistory](https://img.shields.io/badge/Tistory-EC4815.svg?&style=for-the-badge&logo=Tistory&logoColor=white)><https://lanlife.tistory.com/>
-- ![Youtube](https://img.shields.io/badge/Youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)><https://www.youtube.com/@choits>
+- ![Youtube](https://img.shields.io/badge/Youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)><https://youtube.com/@choits>
