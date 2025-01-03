@@ -11,6 +11,7 @@
     - High school activities (President of a IT Network class)
   - Operating System(OSS)
   - Cyber Security
+    - Currently in progress
   - Development
 - AI(Artificial Intelligence)
   - Deep Learning
