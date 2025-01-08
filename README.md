@@ -1,4 +1,6 @@
-# ⭐ CHOI, DONGHYUN &ensp; < *NullBins.* >
+<div align="center">
+  <h1>⭐ CHOI, DONGHYUN &ensp; < <i>NullBins.</i> ></h1>
+</div>
 
 ## 📍 Affiliated organization
 - 계룡디지텍고등학교 정보통신과 2022년 졸업 (동아리: IT네트워크반)
