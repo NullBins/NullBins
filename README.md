@@ -58,8 +58,8 @@
 ## 💾 Weblog & Videos
 - [![Tistory](https://img.shields.io/badge/TISTORY-EC4815.svg?&style=flat&logo=Tistory&logoColor=white)](https://lanlife.tistory.com/) [[lanlife.tistory.com]]
 - [![Youtube](https://img.shields.io/badge/YOUTUBE-FF0000.svg?&style=flat&logo=youtube&logoColor=white)](https://youtube.com/@choits) [[youtube.com/@choits]]
-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNullBins&count_bg=%23B2DDE6&title_bg=%23299ABE&icon=github.svg&icon_color=%23FFFFFF&title=VISITOR&edge_flat=false)](https://hits.seeyoufarm.com) [[github.com/NullBins]]
+- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNullBins&count_bg=%23B2DDE6&title_bg=%23299ABE&icon=github.svg&icon_color=%23FFFFFF&title=VISITOR&edge_flat=false)](https://github.com/NullBins) [[Github/NullBins]]
 
 [lanlife.tistory.com]: <https://lanlife.tistory.com/>
 [youtube.com/@choits]: <https://youtube.com/@choits>
-[github.com/NullBins]: <https://github.com/NullBins>
+[Github/NullBins]: <https://github.com/NullBins>
