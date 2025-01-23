@@ -3,8 +3,8 @@
 </div>
 
 ## 📍 Affiliated organization
-- 계룡디지텍고등학교 정보통신과 2022년 졸업 (동아리: IT네트워크반)
-- 경기대학교 AI컴퓨터공학부 25학번 재학(예정)
+<!-- 계룡디지텍고등학교 정보통신과 2022년 졸업 (동아리: IT네트워크반) -->
+- 경기대학교 AI컴퓨터공학부 25학번 재학
 
 ## 💡 I have interest in . . .
 - CS(Computer Science)
