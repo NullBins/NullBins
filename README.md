@@ -4,7 +4,7 @@
 
 ## 📍 Affiliated organization
 <!-- 계룡디지텍고등학교 정보통신과 2022년 졸업 (동아리: IT네트워크반) -->
-- 경기대학교 AI컴퓨터공학부 25학번 재학
+- 경기대학교 AI컴퓨터공학부 25학번 재학(예정)
 
 ## 💡 I have interest in . . .
 - CS(Computer Science)
@@ -13,7 +13,7 @@
     - High school activities (President of a IT Network class)
   - Operating System(OSS)
   - Cyber Security
-    - Currently in progress
+    - Currently in progress (Preparing for the Skills Competition)
   - Development
 - AI(Artificial Intelligence)
   - Deep Learning
@@ -50,10 +50,10 @@
 ```
 
 ## 📜 Certificates
-- [ *2024.06.* ] 정보처리산업기사(Industrial Engineer Information Processing)
-- [ *2020.07.* ] 정보기기운용기능사(Craftsman Information Equipment Operation)
-- [ *2020.12.* ] 네트워크관리사2급(Network Advisor Class-II)
-- [ *2020.09.* ] 리눅스마스터2급(Linux Master Class-II)
+- [ *2024.06.* ] 정보처리산업기사(Industrial Engineer Information Processing) [ *HRDK* ]
+- [ *2020.07.* ] 정보기기운용기능사(Craftsman Information Equipment Operation) [ *HRDK* ]
+- [ *2020.12.* ] 네트워크관리사2급(Network Advisor Class-II) [ *ICQA* ]
+- [ *2020.09.* ] 리눅스마스터2급(Linux Master Class-II) [ *KAIT* ]
 
 ## 💾 Weblog & Videos
 - [![Tistory](https://img.shields.io/badge/TISTORY-EC4815.svg?&style=flat&logo=Tistory&logoColor=white)](https://lanlife.tistory.com/) [[lanlife.tistory.com]]
