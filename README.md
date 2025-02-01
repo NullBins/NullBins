@@ -50,10 +50,10 @@
 ```
 
 ## 📜 Certificates
-- [ *2024.06.* ] 정보처리산업기사(Industrial Engineer Information Processing) [ *HRDK* ]
-- [ *2020.07.* ] 정보기기운용기능사(Craftsman Information Equipment Operation) [ *HRDK* ]
-- [ *2020.12.* ] 네트워크관리사2급(Network Advisor Class-II) [ *ICQA* ]
-- [ *2020.09.* ] 리눅스마스터2급(Linux Master Class-II) [ *KAIT* ]
+- [ *2024.06.* ] 정보처리산업기사(Industrial Engineer Information Processing) <*HRDK*>
+- [ *2020.07.* ] 정보기기운용기능사(Craftsman Information Equipment Operation) <*HRDK*>
+- [ *2020.12.* ] 네트워크관리사2급(Network Advisor Class-II) <*ICQA*>
+- [ *2020.09.* ] 리눅스마스터2급(Linux Master Class-II) <*KAIT*>
 
 ## 💾 Weblog & Videos
 - [![Tistory](https://img.shields.io/badge/TISTORY-EC4815.svg?&style=flat&logo=Tistory&logoColor=white)](https://lanlife.tistory.com/) [[lanlife.tistory.com]]
