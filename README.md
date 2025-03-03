@@ -40,9 +40,9 @@
 > [![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)](https://learn.microsoft.com/ko-kr/cpp/c-language/c-language-reference?view=msvc-170)
 > [![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
 > [![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white)](https://www.php.net/)
-> [![JS](https://img.shields.io/badge/JS-F0DB4F.svg?&style=for-the-badge&logo=Javascript&logoColor=white)](https://www.gnu.org/software/bash/)
+> [![JS](https://img.shields.io/badge/JS-F0DB4F.svg?&style=for-the-badge&logo=Javascript&logoColor=white)](https://javascript.info/)
 > [![BASH](https://img.shields.io/badge/Shell_Script-4EAA25.svg?&style=for-the-badge&logo=GNUBash&logoColor=white)](https://www.gnu.org/software/bash/)
-> [![OSS](https://img.shields.io/badge/OSS-DD0700.svg?&style=for-the-badge&logo=Opensourceinitiative&logoColor=white)](https://www.oss.kr/)
+<!-- > [![OSS](https://img.shields.io/badge/OSS-DD0700.svg?&style=for-the-badge&logo=Opensourceinitiative&logoColor=white)](https://www.oss.kr/) -->
 
 > ![EATING](https://img.shields.io/badge/I'M_EATING_VERY_WELL-000000.svg?&style=social&logoColor=white)
 
