@@ -42,7 +42,7 @@
 > [![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white)](https://www.php.net/)
 > [![JS](https://img.shields.io/badge/JS-F0DB4F.svg?&style=for-the-badge&logo=Javascript&logoColor=white)](https://javascript.info/)
 > [![BASH](https://img.shields.io/badge/Shell_Script-4EAA25.svg?&style=for-the-badge&logo=GNUBash&logoColor=white)](https://www.gnu.org/software/bash/)
-<!-- > [![OSS](https://img.shields.io/badge/OSS-DD0700.svg?&style=for-the-badge&logo=Opensourceinitiative&logoColor=white)](https://www.oss.kr/) -->
+> [![OSS](https://img.shields.io/badge/OSS-DD0700.svg?&style=for-the-badge&logo=Opensourceinitiative&logoColor=white)](https://www.oss.kr/)
 
 > ![EATING](https://img.shields.io/badge/I'M_EATING_VERY_WELL-000000.svg?&style=social&logoColor=white)
 
@@ -52,7 +52,7 @@
 
 ## 📜 Certificates
 - [ *2024.06.* ] 정보처리산업기사(Industrial Engineer Information Processing)
-<!-- [ *2020.07.* ] 정보기기운용기능사(Craftsman Information Equipment Operation) <*HRDK*> -->
+- [ *2020.07.* ] 정보기기운용기능사(Craftsman Information Equipment Operation)
 <!-- [ *2020.12.* ] 네트워크관리사2급(Network Advisor Class-II) <*ICQA*> -->
 <!-- [ *2020.09.* ] 리눅스마스터2급(Linux Master Class-II) <*KAIT*> -->
 
