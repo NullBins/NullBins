@@ -14,7 +14,7 @@
   - Operating System(OSS)
   - Cyber Security
     - Currently in progress
-  - Development
+  <!-- Development -->
 - AI(Artificial Intelligence)
   - Deep Learning
   - Machine Learning
