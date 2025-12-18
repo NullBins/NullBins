@@ -1,5 +1,5 @@
 <!-- 🎈 Intro Banner -->
-[![Title](https://readme-typing-svg.demolab.com?font=Stylish&weight=900&size=40&pause=1000&color=FFFFFF&background=0A2641&center=true&vCenter=true&width=1000&height=100&lines=C:\\>+cat+interest.log;Security+%F0%9F%94%92+%7C+Network+%F0%9F%8C%90+%7C+Cloud+%E2%98%81+%7C+AI+%F0%9F%92%A1)](https://github.com/NullBins)
+[![Title](https://readme-typing-svg.demolab.com?font=Stylish&weight=900&size=40&pause=1000&color=FFFFFF&background=0A2641&center=true&vCenter=true&width=1000&height=100&lines=PS+C:\\>+cat+interest.log;Security+%F0%9F%94%92+%7C+Network+%F0%9F%8C%90+%7C+Cloud+%E2%98%81+%7C+AI+%F0%9F%92%A1)](https://github.com/NullBins)
 [![Snake](https://github.com/NullBins/NullBins/blob/output/github-contribution-grid-snake.svg)](https://github.com/NullBins)
 <details>
 <summary>🎇 Experiences</summary>
